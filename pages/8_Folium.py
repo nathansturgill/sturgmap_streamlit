@@ -1,5 +1,5 @@
 import streamlit as st
-import sturgmap.foliumap as sturgmap
+import sturgmap.folium as sturgmap
 
 st.set_page_config(layout="wide")
 
